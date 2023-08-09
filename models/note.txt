@@ -1,0 +1,1 @@
+Download and save ggml-gpt4all-j-v1.3-groovy.bin from https://huggingface.co/dnato/ggml-gpt4all-j-v1.3-groovy.bin/tree/main in this folder
